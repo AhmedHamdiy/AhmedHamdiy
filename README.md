@@ -10,16 +10,25 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
+- 📫 How to reach me **ahmed.abdalllah03@eng-st.cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hamdy-mohammed" height="60" width="80" />
+
+<a href="https://www.facebook.com/profile.php?id=100004877143052" target="blank">
+<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
 </a>
 
-<a href="ahmed.abdalllah03@eng-st.cu.edu.eg" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="120" width="160" />
+
+<a href="https://www.instagram.com/ahmed.hamdy03/" target="blank">
+<img align="center" srchttps://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
 </a>
+
+<a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
+</a>
+
+
 
 <h3 align="left">Languages and Frameworks🐱‍👤:</h3>
 
