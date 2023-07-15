@@ -21,7 +21,7 @@
 
 
 <a href="https://www.instagram.com/ahmed.hamdy03/" target="blank">
-<img align="center" srchttps://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
+<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
 </a>
 
 <a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
