@@ -3,7 +3,7 @@
 
 <h3 align="center">A Junior Computer Engineering Student 👩‍💻</h3>
 
-<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
 
 
 - 🔭 I’m currently working on **The Odin Project**
@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **Frontend Web Development**
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hamdy-mohammed" height="60" width="80" />
 </a>
@@ -21,9 +21,9 @@
 <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="120" width="160" />
 </a>
 
-<h3 align="center">Languages and Frameworks🐱‍👤:</h3>
+<h3 align="left">Languages and Frameworks🐱‍👤:</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> 
 </a> 
