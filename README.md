@@ -18,7 +18,7 @@
 </a>
 
 <a href="ahmed.abdalllah03@eng-st.cu.edu.eg" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="60" width="80" />
+<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="120" width="160" />
 </a>
 
 <h3 align="center">Languages and Frameworks🐱‍👤:</h3>
@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
 </a> 
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -45,10 +45,6 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
-</a> 
-
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="80" height="80"/> 
 </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
