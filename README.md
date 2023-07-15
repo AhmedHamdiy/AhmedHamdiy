@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Ahmed Hamdy 👋🤖</h1>
 
-<h3 align="center">A Sophomore Computer Engineering Student 👩‍💻</h3>
+<h3 align="center">A Junior Computer Engineering Student 👩‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
 
