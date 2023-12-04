@@ -58,8 +58,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
 </a> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg#L1)" alt="python" width="80" height="80"/> </a> 
 
 </p>
 
