@@ -46,7 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg)" alt="react" width="80" height="80"/> 
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" width="80" height="80"/> 
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
