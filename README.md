@@ -48,11 +48,13 @@
 
 <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" width="80" height="80"/> 
 
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/sass.svg" alt="sass" width="80" height="80"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt="nodeJS" width="80" height="80"/> 
 
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg" alt="postgreSql" width="80" height="80"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="mongoDB" width="80" height="80"/> 
 
 </p>
 
