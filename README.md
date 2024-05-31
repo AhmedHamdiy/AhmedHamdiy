@@ -6,11 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
 
 
-- 🔭 I’m currently working on **The Odin Project**
-
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 📫 How to reach me **ahmed.abdalllah03@eng-st.cu.edu.eg**
+- 📫 How to reach me **ahmed.hamdiy03@gmail.com**
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
@@ -36,15 +34,14 @@
 <!--cpp!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="80" height="80"/> 
 
-
 <!--c!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> 
 
-<!--java!--> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
-
 <!--c#!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="80" height="80"/> 
+
+<!--java!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
 
 <!--python!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
