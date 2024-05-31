@@ -76,8 +76,13 @@
 <!--postgre!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="80" height="80"/> 
 
-<!--Figma!--> 
+<!--figma!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="80" height="80"/> 
+
+
+<!--git!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/> 
+
 
 </p>
 
