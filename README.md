@@ -30,31 +30,54 @@
 
 
 
-<h3 align="left">🐱‍👤Languages and Frameworks:</h3>
+<h3 align="left">🐱‍👤Languages And Tools:</h3>
 
 <p align="left">
+<!--cpp!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> 
+<!--c!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> 
+<!--java!--> 
+<img src="[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+<!--c#!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
+<!--python!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" alt="react" width="80" height="80"/> 
+<!--html!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/sass.svg" alt="sass" width="80" height="80"/> 
+<!--css!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt="nodeJS" width="80" height="80"/> 
+<!--java script!--> 
+<img src="[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/postgresql.svg" alt="postgreSql" width="80" height="80"/> 
+<!--react!--> 
+<img src="[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
-<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" alt="mongoDB" width="80" height="80"/> 
+<!--sass!--> 
+<img src="[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)" alt="mongoDB" width="80" height="80"/> 
+
+<!--typescript!--> 
+<img src="[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)" alt="mongoDB" width="80" height="80"/> 
+
+<!--node js!--> 
+<img src="[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)" alt="mongoDB" width="80" height="80"/> 
+
+<!--mongo db!--> 
+<img src="[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg)" alt="mongoDB" width="80" height="80"/> 
+
+<!--postgre!--> 
+<img src="[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)" alt="mongoDB" width="80" height="80"/> 
+
+<!--Figma!--> 
+<img src="[[[[https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)" alt="mongoDB" width="80" height="80"/> 
 
 </p>
 
