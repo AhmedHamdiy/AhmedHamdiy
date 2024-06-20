@@ -80,7 +80,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="80" height="80"/> 
 
 <!--express!--> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
 
 <!--mongo db!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="80" height="80"/> 
