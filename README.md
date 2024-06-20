@@ -52,20 +52,32 @@
 <!--css!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="80" height="80"/> 
 
-<!--java script!--> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="java script" width="80" height="80"/> 
-
-<!--react!--> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="80" height="80"/> 
-
 <!--sass!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="80" height="80"/> 
+
+<!--tailwind!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="80" height="80"/> 
+
+<!--java script!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="java script" width="80" height="80"/> 
 
 <!--typescript!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="type script" width="80" height="80"/> 
 
 <!--node js!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="80" height="80"/> 
+
+<!--react!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="80" height="80"/> 
+
+<!--next!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="80" height="80"/> 
+
+<!--vue!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="80" height="80"/> 
+
+<!--nuxt!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="80" height="80"/> 
 
 <!--express!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
@@ -79,9 +91,11 @@
 <!--figma!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="80" height="80"/> 
 
-
 <!--git!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/> 
+
+<!--neovim!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="neovim" width="80" height="80"/> 
 
 
 </p>
