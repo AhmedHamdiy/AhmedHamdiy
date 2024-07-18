@@ -76,9 +76,6 @@
 <!--vue!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="80" height="80"/> 
 
-<!--nuxt!--> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="80" height="80"/> 
-
 <!--express!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
 
