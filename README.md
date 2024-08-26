@@ -91,8 +91,6 @@
 <!--git!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/> 
 
-<!--neovim!--> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" alt="neovim" width="80" height="80"/> 
 
 
 </p>
