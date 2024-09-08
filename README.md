@@ -70,6 +70,9 @@
 <!--react!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="80" height="80"/> 
 
+<!--redux!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/> 
+
 <!--next!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="80" height="80"/> 
 
