@@ -5,7 +5,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
 
+# 
+<h2 align="center">GitHub Contributions</h2>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=radical)
+
+![My GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHamdiy&theme=dark)
+
+[![My 3D GitHub Contributions](https://github.com/AhmedHamdiy/AhmedHamdiy/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/AhmedHamdiy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamdiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHamdiy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 - 📫 How to reach me **ahmed.hamdiy03@gmail.com**
 
