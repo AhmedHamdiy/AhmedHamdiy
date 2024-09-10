@@ -1,36 +1,36 @@
-
 <h1 align="center">Hi there, I'm Ahmed Hamdy 👋🤖</h1>
-
-<h3 align="center">A Junior Computer Engineering Student 👩‍💻</h3>
-
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
-
-<h2 align="center">GitHub Contributions</h2>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=radical)
-
-![My GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHamdiy&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamdiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamdiy)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-- 📫 How to reach me **ahmed.hamdiy03@gmail.com**
+<h4 align="left">A Junior Computer Engineering Student 👩‍💻</h4>
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
 
-<a href="https://x.com/AhmedAndHisCap" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="X-account" height="45" width="60" />
+  <a href="https://x.com/AhmedAndHisCap" target="blank">
+    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="X-account" height="45" width="60" />
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn-account" height="30" width="40" />
+  </a>
+  <a href="ahmed.hamdiy03@gmail.com" target="blank">
+    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="email" height="30"   width="40" />
+  </a>
+</p>
+
+<br>
+<br>
+<h2 align="left">GitHub Contributions</h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=react" alt="My GitHub Stats"  />
+<a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=AhmedHamdiy&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamdiy&theme=react-dark&custom_title=My%20github%20activity%20graph" alt="My github activity graph">
 </a>
 
 
-<a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn-account" height="30" width="40" />
-</a>
 
-
-<h3 align="left">🐱‍👤Languages And Tools:</h3>
+<h2 align="left">🐱‍👤Languages And Tools:</h2>
 
 <p align="left">
 <!--cpp!--> 
