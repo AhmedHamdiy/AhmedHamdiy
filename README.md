@@ -12,12 +12,9 @@
 
 ![My GitHub Streak](https://streak-stats.demolab.com/?user=AhmedHamdiy&theme=dark)
 
-[![My 3D GitHub Contributions](https://github.com/AhmedHamdiy/AhmedHamdiy/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/AhmedHamdiy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamdiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHamdiy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![My GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHamdiy&theme=github-compact)](https://github.com/AhmedHamdiy/github-readme-activity-graph)
 
 
 
