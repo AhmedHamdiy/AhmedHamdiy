@@ -5,27 +5,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
 
-
-- 🌱 I’m currently learning **Frontend Web Development**
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=radical)
 
 - 📫 How to reach me **ahmed.hamdiy03@gmail.com**
 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.facebook.com/profile.php?id=100004877143052" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
+<a href="https://x.com/AhmedAndHisCap" target="blank">
+<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="X-account" height="45" width="60" />
 </a>
 
-
-<a href="https://www.instagram.com/ahmed.hamdy03/" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="ahmed-hamdy-mohammed" height="45" width="60" />
-</a>
 
 <a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hamdy-mohammed" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn-account" height="30" width="40" />
 </a>
-
 
 
 <h3 align="left">🐱‍👤Languages And Tools:</h3>
