@@ -3,20 +3,27 @@
 <h4 align="left">A Junior Computer Engineering Student 👩‍💻</h4>
 
 <h3 align="left">📱 Connect with me:</h3>
-<p align="left">
+
+  
+<!--email!--> 
+  
+  <a href="ahmed.hamdiy03@gmail.com" target="blank">
+    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="email" height="45"   width="60" />
+  </a>
+
+  
+<!--linkedIn!--> 
+  
+  <a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
+    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn-account" height="45" width="60" />
+  </a>
+  
+  <!--x!--> 
 
   <a href="https://x.com/AhmedAndHisCap" target="blank">
     <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="X-account" height="45" width="60" />
   </a>
   
-  
-  <a href="https://www.linkedin.com/in/ahmed-hamdy-mohammed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn-account" height="30" width="40" />
-  </a>
-  <a href="ahmed.hamdiy03@gmail.com" target="blank">
-    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="email" height="30"   width="40" />
-  </a>
-</p>
 
 <br>
 <br>
