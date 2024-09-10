@@ -5,7 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-flint-lockwood-x8rmhnzorw4lcrp6.gif">
 
-# 
 <h2 align="center">GitHub Contributions</h2>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=radical)
@@ -14,9 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamdiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedHamdiy&theme=github-compact)](https://github.com/AhmedHamdiy/github-readme-activity-graph)
-
-
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamdiy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 📫 How to reach me **ahmed.hamdiy03@gmail.com**
 
