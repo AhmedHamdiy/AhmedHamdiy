@@ -31,8 +31,8 @@
 <br>
 <br>
 <h2 align="left">GitHub Contributions</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=react" alt="My GitHub Stats"  />
-<a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=AhmedHamdiy&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=react" alt="My GitHub Stats"  width="470"/>
+<img align="right" src="https://streak-stats.demolab.com?user=AhmedHamdiy&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamdiy&theme=react-dark&custom_title=My%20github%20activity%20graph" alt="My github activity graph">
