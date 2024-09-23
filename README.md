@@ -32,7 +32,7 @@
 <br>
 <h2 align="left">GitHub Contributions</h2>
 <div>
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=react" alt="My GitHub Stats" width="400" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&show_icons=true&theme=react" alt="My GitHub Stats" width="450" />
 <img align="right"  src="https://streak-stats.demolab.com?user=AhmedHamdiy&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=380" alt="GitHub Streak" />
 </div>
 
@@ -110,7 +110,14 @@
 <!--git!--> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/> 
 
+<!--firebase!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="80" height="80"/> 
 
+<!--supabase!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase" width="80" height="80"/> 
+
+<!--supabase!--> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase" width="80" height="80"/> 
 
 </p>
 
