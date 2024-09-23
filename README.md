@@ -39,8 +39,8 @@
 <h2 align="center">GitHub Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="172" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AhmedHamdiy&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="172" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHamdiy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AhmedHamdiy&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamdiy&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
